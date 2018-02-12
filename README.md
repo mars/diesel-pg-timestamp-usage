@@ -9,7 +9,7 @@ Example using UTC timestamps with the Rust language database ORM [Diesel](https:
 
 * [Rust + Cargo](https://www.rust-lang.org)
 * [Postgres](https://www.postgresql.org/download/)
-* `cargo install diesel_cli`
+* `cargo install diesel_cli --no-default-features --features postgres`
 
 
 ## Usage
